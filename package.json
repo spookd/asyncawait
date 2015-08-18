@@ -40,9 +40,9 @@
     "prepublish": "gulp build"
   },
   "dependencies": {
-    "bluebird": "~2.3.11",
-    "fibers": "~1.0.1",
-    "lodash": "v2.4.1"
+    "bluebird": "^2.3.11",
+    "fibers": "^1.0.6",
+    "lodash": "^2.4.1"
   },
   "devDependencies": {
     "async": "*",
